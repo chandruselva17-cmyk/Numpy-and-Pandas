@@ -8,12 +8,6 @@ Table of Contents
 
 Objectives
 
-Tech Stack
-
-Project Structure
-
-Getting Started
-
 Tasks Covered
 
 Part 1: NumPy Array Operations
